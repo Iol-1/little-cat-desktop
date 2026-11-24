@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+build/
+*.spec
+.pytest_cache/
+
+# Local diagnostics, previews, and iteration backups
+analysis/
+
+# Compiled applications are distributed through GitHub Releases
+release/
+release-next/
+dist/
+
+# Local Python environments
+.venv/
+venv/
